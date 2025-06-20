@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\practica\\practica\\views\\clientes\\clienteslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|solutionrelative:practica\\views\\clientes\\clienteslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\practica\\practica\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|solutionrelative:practica\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\practica\\practica\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|solutionrelative:practica\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\practica\\practica\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|solutionrelative:practica\\controllers\\almacencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\practica\\practica\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|solutionrelative:practica\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\practica\\practica\\views\\almacen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{078D4D2F-7C29-420B-93B2-A02CC113D91A}|Practica\\Practica.csproj|solutionrelative:practica\\views\\almacen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practica\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Practica\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T21:06:11.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesList.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Views\\Clientes\\ClientesList.cshtml",
+              "RelativeDocumentMoniker": "Practica\\Views\\Clientes\\ClientesList.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Views\\Clientes\\ClientesList.cshtml",
+              "RelativeToolTip": "Practica\\Views\\Clientes\\ClientesList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T20:59:33.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Practica\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Models\\Cliente.cs",
+              "RelativeToolTip": "Practica\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:57:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Views\\Almacen\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica\\Views\\Almacen\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Views\\Almacen\\Index.cshtml",
+              "RelativeToolTip": "Practica\\Views\\Almacen\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T20:56:33.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Practica\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Practica\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:52:03.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlmacenController.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Controllers\\AlmacenController.cs",
+              "RelativeDocumentMoniker": "Practica\\Controllers\\AlmacenController.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\Practica\\Practica\\Controllers\\AlmacenController.cs",
+              "RelativeToolTip": "Practica\\Controllers\\AlmacenController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:08:13.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

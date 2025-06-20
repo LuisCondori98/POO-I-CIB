@@ -1,0 +1,64 @@
+﻿@model IEnumerable<AppWebT1CondoriAnayaLuis.Models.Paciente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nroHistoria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nomApePaciente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dniPaciente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.direccionPaciente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pesoPaciente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tallaPaciente)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nroHistoria)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nomApePaciente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dniPaciente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.direccionPaciente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.pesoPaciente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tallaPaciente)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.dniPaciente }) |
+            @Html.ActionLink("Details", "Details", new { id=item.dniPaciente }) |
+            @Html.ActionLink("Delete", "Delete", null, new { @class = "btn btn-danger" /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success"})
+</p>

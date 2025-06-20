@@ -1,0 +1,76 @@
+﻿@model AppWebT1CondoriAnayaLuis.Models.Obrero
+
+@{
+    ViewBag.Title = "RegistrarObrero";
+}
+
+<h2>RegistrarObrero</h2>
+
+@using (Html.BeginForm()) 
+{
+    
+    <div class="form-horizontal">
+        <h4>Obrero</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="mb-3">
+            @Html.Label("Id", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.idObrero, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            @Html.Label("Nombres", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.nomApeObrero, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.cateObrero, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.cateObrero, new SelectList(Enum.GetValues(typeof(AppWebT1CondoriAnayaLuis.Models.cateObrero))), "-- Seleccione --")
+            </div>
+        </div>
+
+        <div class="mb-3">
+            @Html.Label("Horas", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.nHoras, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            @Html.Label("Hijos", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBoxFor(model => model.nHijos, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.tipoContrato, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.tipoContrato, new SelectList(Enum.GetValues(typeof(AppWebT1CondoriAnayaLuis.Models.tipoContrato))), "-- Seleccione --")
+            </div>
+        </div>
+
+        <div class="mb-3">
+            @Html.Label("Sueldo", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBox("Escolaridad", ViewBag.calcularSueldoBasico as string, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            @Html.Label("Escolaridad", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBox("escolaridad", ViewBag.retornarEscolaridad as string, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            @Html.Label("Bonificacion", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBox("bonificacion", ViewBag.calcularBonificacion as string, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            @Html.Label("Total a pagar" +
+           "", htmlAttributes: new { @class = "form-label" })
+            @Html.TextBox("total", ViewBag.calcularMontoAPagar as string, new { @class = "form-control" })
+        </div>
+
+        <div class="d-flex justify-content-between">
+            @Html.ActionLink("Nuevo", "RegistrarObrero", null, new { @class = "btn btn-secondary" })
+            <input type="submit" value="Procesar" class="btn btn-primary" />
+        </div>
+    </div>
+}
