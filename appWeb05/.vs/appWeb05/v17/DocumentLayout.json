@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08F903D-A459-45BD-B6CD-28EE85AAC2B6}|appWeb05\\appWeb05.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\appweb05\\appweb05\\views\\manteniemiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C08F903D-A459-45BD-B6CD-28EE85AAC2B6}|appWeb05\\appWeb05.csproj|solutionrelative:appweb05\\views\\manteniemiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb05\\appWeb05\\Views\\Manteniemiento\\Index.cshtml",
+              "RelativeDocumentMoniker": "appWeb05\\Views\\Manteniemiento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb05\\appWeb05\\Views\\Manteniemiento\\Index.cshtml",
+              "RelativeToolTip": "appWeb05\\Views\\Manteniemiento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T13:13:43.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
