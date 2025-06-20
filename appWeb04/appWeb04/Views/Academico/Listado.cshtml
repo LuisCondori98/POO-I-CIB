@@ -1,0 +1,35 @@
+﻿@using appWeb04.Models
+@model IEnumerable<Curso>
+@{
+    ViewBag.Title = "Listado";
+}
+
+<h2>Listado de cursos</h2>
+
+<table class="table" style="text-align: center">
+    <tr>
+        <th>
+            ID Curso
+        </th>
+        <th>
+            Descripcion
+        </th>
+        <th>
+            Creditos
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.IdCurso
+            </td>
+            <td>
+                @item.descripcion
+            </td>
+            <td>
+                @item.creditos
+            </td>
+        </tr>
+    }
+</table>

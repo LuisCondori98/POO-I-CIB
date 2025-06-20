@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\appweb04\\appweb04\\controllers\\academicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|solutionrelative:appweb04\\controllers\\academicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appweb04\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|solutionrelative:appweb04\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appweb04\\views\\academico\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|solutionrelative:appweb04\\views\\academico\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appweb04\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|solutionrelative:appweb04\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appweb04\\views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DCC700-CA91-4EB1-9860-D6EDD672B69A}|appWeb04\\appWeb04.csproj|solutionrelative:appweb04\\views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Views\\Inventario\\Create.cshtml",
+              "RelativeDocumentMoniker": "appWeb04\\Views\\Inventario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Views\\Inventario\\Create.cshtml",
+              "RelativeToolTip": "appWeb04\\Views\\Inventario\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:18:02.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Views\\Inventario\\Index.cshtml",
+              "RelativeDocumentMoniker": "appWeb04\\Views\\Inventario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Views\\Inventario\\Index.cshtml",
+              "RelativeToolTip": "appWeb04\\Views\\Inventario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:17:14.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listado.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Views\\Academico\\Listado.cshtml",
+              "RelativeDocumentMoniker": "appWeb04\\Views\\Academico\\Listado.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Views\\Academico\\Listado.cshtml",
+              "RelativeToolTip": "appWeb04\\Views\\Academico\\Listado.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:15:52.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcademicoController.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Controllers\\AcademicoController.cs",
+              "RelativeDocumentMoniker": "appWeb04\\Controllers\\AcademicoController.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Controllers\\AcademicoController.cs",
+              "RelativeToolTip": "appWeb04\\Controllers\\AcademicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:15:11.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "appWeb04\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\appWeb04\\appWeb04\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "appWeb04\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:53.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

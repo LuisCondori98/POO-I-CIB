@@ -1,0 +1,50 @@
+﻿@model AppWeb03.Models.OServicio
+
+@{
+    ViewBag.Title = "Registro";
+}
+
+<h2>Registor de ordenes de Servicio</h2>
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.Label("Numero Servicio", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.TextAreaFor(model => model.nservicio, htmlAttributes: new { @class = "form-control col-md-10" })
+        </div>
+        <div class="form-group">
+            @Html.Label("Fecha", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.TextAreaFor(model => model.fservicio, htmlAttributes: new { @class = "form-control col-md-10" })
+        </div>
+        <div class="form-group">
+            @Html.Label("Cliente", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.TextAreaFor(model => model.cliente, htmlAttributes: new { @class = "form-control col-md-10" })
+        </div>
+        <div class="form-group">
+            @Html.Label("Descripcion", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.TextAreaFor(model => model.descripcion, htmlAttributes: new { @class = "form-control col-md-10" })
+        </div>
+        <div class="form-group">
+            @Html.Label("Costo", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.TextAreaFor(model => model.costo, htmlAttributes: new { @class = "form-control col-md-10" })
+        </div>
+        <div class="form-group">
+            @Html.Label("IGV", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.TextAreaFor(model => model.igv, htmlAttributes: new { @class = "form-control col-md-10" })
+        </div>
+        <div class="form-group">
+            @Html.Label("Monto", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.TextAreaFor(model => model.monto, htmlAttributes: new { @class = "form-control col-md-10" })
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Procesar" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @ViewBag.mensaje
+</div>
+

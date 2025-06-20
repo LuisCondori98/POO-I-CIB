@@ -1,0 +1,49 @@
+﻿@using appWeb04.Models
+@model IEnumerable<Curso>
+
+@{
+    ViewBag.Title = "FiltrarCurso";
+}
+
+<h2>Busqueda de cursos</h2>
+
+<div>
+    @using (Html.BeginForm())
+    {
+        <em>Descripcion del curso</em>
+        @Html.TextBox("nombre", "")
+        <button>Consulta</button>
+    }
+</div>
+
+<table class="table" style="text-align: center">
+    <tr>
+        <th>
+            ID Curso
+        </th>
+        <th>
+            Descripcion
+        </th>
+        <th>
+            Creditos
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.IdCurso
+            </td>
+            <td>
+                @item.descripcion
+            </td>
+            <td>
+                @item.creditos
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="3">Cantidad de cursos: @Model.Count()</td>
+    </tr>
+</table>
+

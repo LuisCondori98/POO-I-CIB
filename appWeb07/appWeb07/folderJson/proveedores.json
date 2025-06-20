@@ -1,0 +1,26 @@
+[
+    {
+        "IdProveedor": 1,
+        "Nombre": "Coca Cola SA",
+        "Ruc": "12548745214",
+        "Direccion": "Lima",
+        "Fono": "4563214",
+        "Email": "cococolaperu@cocacola.com"
+    },
+    {
+        "IdProveedor": 2,
+        "Nombre": "Chilet Santistevan",
+        "Ruc": "202121545451",
+        "Direccion": "Arequipa",
+        "Fono": "45121545",
+        "Email": "nose@gmail.com"
+    },
+    {
+        "IdProveedor": 3,
+        "Nombre": "Donofrio SA",
+        "Ruc": "20145411451",
+        "Direccion": "Lima",
+        "Fono": "4632115",
+        "Email": "donofrio@gmail.com"
+    }
+]
