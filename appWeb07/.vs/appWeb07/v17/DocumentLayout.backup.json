@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|c:\\users\\lcond\\source\\repos\\appweb07\\appweb07\\views\\padron\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|solutionrelative:appweb07\\views\\padron\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|c:\\users\\lcond\\source\\repos\\appweb07\\appweb07\\controllers\\padroncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|solutionrelative:appweb07\\controllers\\padroncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|c:\\users\\lcond\\source\\repos\\appweb07\\appweb07\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|solutionrelative:appweb07\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|c:\\users\\lcond\\source\\repos\\appweb07\\appweb07\\views\\padron\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|solutionrelative:appweb07\\views\\padron\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|C:\\Users\\lcond\\source\\repos\\AppWeb07\\appweb07\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCB12BC-6528-4183-81EB-2296C4340F30}|AppWeb07\\AppWeb07.csproj|solutionrelative:appweb07\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "AppWeb07\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "AppWeb07\\Controllers\\RegistroController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCEAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:03:11.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Views\\Padron\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppWeb07\\Views\\Padron\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Views\\Padron\\Create.cshtml",
+              "RelativeToolTip": "AppWeb07\\Views\\Padron\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T21:56:13.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Views\\Padron\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWeb07\\Views\\Padron\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Views\\Padron\\Index.cshtml",
+              "RelativeToolTip": "AppWeb07\\Views\\Padron\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T21:50:20.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PadronController.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Controllers\\PadronController.cs",
+              "RelativeDocumentMoniker": "AppWeb07\\Controllers\\PadronController.cs",
+              "ToolTip": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Controllers\\PadronController.cs",
+              "RelativeToolTip": "AppWeb07\\Controllers\\PadronController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:33:09.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "AppWeb07\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\lcond\\source\\repos\\AppWeb07\\AppWeb07\\Models\\Proveedor.cs",
+              "RelativeToolTip": "AppWeb07\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:31:18.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

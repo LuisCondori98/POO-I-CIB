@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13DE44F-BDB0-43D0-AAA7-33E3EBFC9433}|AppWeb09\\AppWeb09.csproj|C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\appweb09\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13DE44F-BDB0-43D0-AAA7-33E3EBFC9433}|AppWeb09\\AppWeb09.csproj|solutionrelative:appweb09\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13DE44F-BDB0-43D0-AAA7-33E3EBFC9433}|AppWeb09\\AppWeb09.csproj|c:\\users\\lcond\\documents\\cibertec\\programacion orientada a objetos i\\projects\\appweb09\\appweb09\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13DE44F-BDB0-43D0-AAA7-33E3EBFC9433}|AppWeb09\\AppWeb09.csproj|solutionrelative:appweb09\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13DE44F-BDB0-43D0-AAA7-33E3EBFC9433}|AppWeb09\\AppWeb09.csproj|C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\appweb09\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13DE44F-BDB0-43D0-AAA7-33E3EBFC9433}|AppWeb09\\AppWeb09.csproj|solutionrelative:appweb09\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\AppWeb09\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "AppWeb09\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\AppWeb09\\Models\\Pedido.cs",
+              "RelativeToolTip": "AppWeb09\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:10:33.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\AppWeb09\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "AppWeb09\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\AppWeb09\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "AppWeb09\\Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:50:57.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\AppWeb09\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AppWeb09\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lcond\\Documents\\CIBERTEC\\Programacion orientada a objetos I\\Projects\\AppWeb09\\AppWeb09\\Models\\Cliente.cs",
+              "RelativeToolTip": "AppWeb09\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:48:42.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
